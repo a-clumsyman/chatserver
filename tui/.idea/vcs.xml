@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/lib/tui-go" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/tui-go/cmp-lib/go-cmp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/tui-go/tcell-lib/tcell" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/tui-go/wordwrap/lib/go-runewidth" vcs="Git" />
+  </component>
+</project>
